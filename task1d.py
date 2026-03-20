@@ -1,0 +1,11 @@
+# This line will ask the user to enter their name. When the # user enters their name via the keyboard it will be stored # the variable named "name" 
+print("hello ")
+print("what is your name? ")
+name = input()
+print("what is your favourite animal ?")
+animal= input()
+print("what is your favourite number? ")
+number= int(input()) 
+print("your name is", name)
+print(name,"'s favourite animal is", animal )
+print(name, "'s favourite number is", number )
