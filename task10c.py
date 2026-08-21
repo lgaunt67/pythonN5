@@ -1,7 +1,7 @@
-for number in range(1, 7):
+for number in range(1, 6):
     
    
-    for dots in range(6 - number):
+    for dots in range(5 - number):
         print(".", end="")
         
     
